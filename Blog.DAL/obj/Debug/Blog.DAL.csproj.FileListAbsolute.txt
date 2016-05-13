@@ -1,0 +1,7 @@
+D:\Nauka\DziesiatySemestr\SyntezaAplikacjiBiznesowych\Blog\Blog.DAL\bin\Debug\Blog.DAL.dll
+D:\Nauka\DziesiatySemestr\SyntezaAplikacjiBiznesowych\Blog\Blog.DAL\bin\Debug\Blog.DAL.pdb
+D:\Nauka\DziesiatySemestr\SyntezaAplikacjiBiznesowych\Blog\Blog.DAL\bin\Debug\EntityFramework.dll
+D:\Nauka\DziesiatySemestr\SyntezaAplikacjiBiznesowych\Blog\Blog.DAL\bin\Debug\EntityFramework.xml
+D:\Nauka\DziesiatySemestr\SyntezaAplikacjiBiznesowych\Blog\Blog.DAL\obj\Debug\Blog.DAL.dll
+D:\Nauka\DziesiatySemestr\SyntezaAplikacjiBiznesowych\Blog\Blog.DAL\obj\Debug\Blog.DAL.pdb
+D:\Nauka\DziesiatySemestr\SyntezaAplikacjiBiznesowych\Blog\Blog.DAL\obj\Debug\Blog.DAL.csprojResolveAssemblyReference.cache

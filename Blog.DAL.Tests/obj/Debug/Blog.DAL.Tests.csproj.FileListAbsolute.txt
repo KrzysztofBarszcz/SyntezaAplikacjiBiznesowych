@@ -1,0 +1,16 @@
+D:\Nauka\DziesiatySemestr\SyntezaAplikacjiBiznesowych\Blog\Blog.DAL.Tests\bin\Debug\Blog.DAL.Tests.dll.config
+D:\Nauka\DziesiatySemestr\SyntezaAplikacjiBiznesowych\Blog\Blog.DAL.Tests\bin\Debug\Blog.DAL.Tests.dll
+D:\Nauka\DziesiatySemestr\SyntezaAplikacjiBiznesowych\Blog\Blog.DAL.Tests\bin\Debug\Blog.DAL.Tests.pdb
+D:\Nauka\DziesiatySemestr\SyntezaAplikacjiBiznesowych\Blog\Blog.DAL.Tests\bin\Debug\Blog.DAL.dll
+D:\Nauka\DziesiatySemestr\SyntezaAplikacjiBiznesowych\Blog\Blog.DAL.Tests\bin\Debug\EntityFramework.dll
+D:\Nauka\DziesiatySemestr\SyntezaAplikacjiBiznesowych\Blog\Blog.DAL.Tests\bin\Debug\TDD.DbTestHelpers.dll
+D:\Nauka\DziesiatySemestr\SyntezaAplikacjiBiznesowych\Blog\Blog.DAL.Tests\bin\Debug\YamlDotNet.Core.dll
+D:\Nauka\DziesiatySemestr\SyntezaAplikacjiBiznesowych\Blog\Blog.DAL.Tests\bin\Debug\YamlDotNet.RepresentationModel.dll
+D:\Nauka\DziesiatySemestr\SyntezaAplikacjiBiznesowych\Blog\Blog.DAL.Tests\bin\Debug\Blog.DAL.pdb
+D:\Nauka\DziesiatySemestr\SyntezaAplikacjiBiznesowych\Blog\Blog.DAL.Tests\bin\Debug\EntityFramework.xml
+D:\Nauka\DziesiatySemestr\SyntezaAplikacjiBiznesowych\Blog\Blog.DAL.Tests\bin\Debug\TDD.DbTestHelpers.pdb
+D:\Nauka\DziesiatySemestr\SyntezaAplikacjiBiznesowych\Blog\Blog.DAL.Tests\bin\Debug\YamlDotNet.Core.pdb
+D:\Nauka\DziesiatySemestr\SyntezaAplikacjiBiznesowych\Blog\Blog.DAL.Tests\bin\Debug\YamlDotNet.RepresentationModel.pdb
+D:\Nauka\DziesiatySemestr\SyntezaAplikacjiBiznesowych\Blog\Blog.DAL.Tests\obj\Debug\Blog.DAL.Tests.csprojResolveAssemblyReference.cache
+D:\Nauka\DziesiatySemestr\SyntezaAplikacjiBiznesowych\Blog\Blog.DAL.Tests\obj\Debug\Blog.DAL.Tests.dll
+D:\Nauka\DziesiatySemestr\SyntezaAplikacjiBiznesowych\Blog\Blog.DAL.Tests\obj\Debug\Blog.DAL.Tests.pdb

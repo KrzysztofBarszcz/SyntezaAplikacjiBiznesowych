@@ -1,0 +1,13 @@
+﻿Posts:
+  test-post:
+    Id: 10
+    Author: test
+    Content: nie test, test, test...
+    Liczba: 20
+	InnaLiczba: 3.5
+  test-post2:
+    Id: 20
+    Author: taki tam
+    Content: jakas tam zawartosc
+    Liczba: 50
+	InnaLiczba: 1.0
