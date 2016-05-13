@@ -1,0 +1,35 @@
+﻿Posts:
+  test-post:
+    Id: 10
+    Author: test
+    Content: test, test, test...
+  test-post2:
+    Id: 20
+    Author: inny test
+    Content: rowniez inny tekst
+Comments:
+  comment1:
+    Id: 1
+    Author: jakis tam
+    Content: zawartosc
+    PostId: 10
+  comment2:
+    Id: 20
+    Author: rowniez jakis tam
+    Content: tu jest zawartosc
+    PostId: 20
+  comment3:
+    Id: 30
+    Author: autor
+    Content: content
+    PostId: 20
+  comment4:
+    Id: 40
+    Author: jakis tam
+    Content: zawartosc komentarza
+    PostId: 10
+  comment5:
+    Id: 50
+    Author: kolejny autor
+    Content: komentarz do pierwszego posta
+    PostId: 10
